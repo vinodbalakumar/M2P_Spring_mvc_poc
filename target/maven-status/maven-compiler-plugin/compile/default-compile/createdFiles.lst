@@ -1,0 +1,4 @@
+com\devcases\usermanager\service\UserService.class
+com\devcases\usermanager\dao\UserDAO.class
+com\devcases\usermanager\model\User.class
+com\devcases\usermanager\web\UserController.class
